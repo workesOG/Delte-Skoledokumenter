@@ -32,22 +32,12 @@ Inputtet fra spilleren oversættes direkte til en vertikal bevægelse af battet.
 
 #### 1. Gestaltlovene
 
-1. **Loven om nærhed (Proximity)**
+* **Loven om nærhed:** Nærhedsloven viser sig i Pong ved, at padlen og scoren er placeret tæt på hinanden på hver side af skærmen. Dette gør det nemt for spilleren at associere sin padel med sin score og sin side af banen.
 
-Nærhedsloven viser sig i Pong ved, at padlen og scoren er placeret tæt på hinanden på hver side af skærmen. Dette gør det nemt for spilleren at associere sin padel med sin score og sin side af banen.
+* **Loven om lighed**: Lighedsloven bruges ved, at begge padler er ens i form og størrelse. Dette gør det klart, at begge padler har samme funktion, uanset hvilken side de er på.
 
-2. **Loven om lighed (Similarity)**
+* **Loven om lukkethed**: Lukkethedsloven ses, når spillerne opfatter padlerne og bolden som komplette objekter, selvom de er enkle i designet. Den stiplede midterlinje opfattes også som en sammenhængende helhed, selvom den er brudt op.
 
-Lighedsloven bruges ved, at begge padler er ens i form og størrelse. Dette gør det klart, at begge padler har samme funktion, uanset hvilken side de er på.
+* **Loven om forbundethed**: Forbundethedsloven ses i interaktionen mellem padlen og bolden. Når bolden rammer padlen, skabes der en tydelig forbindelse, som viser, at padlen styrer boldens bevægelse.
 
-3. **Loven om lukkethed (Closure)**
-
-Lukkethedsloven ses, når spillerne opfatter padlerne og bolden som komplette objekter, selvom de er enkle i designet. Den stiplede midterlinje opfattes også som en sammenhængende helhed, selvom den er brudt op.
-
-4. **Loven om forbundethed (Connectedness)**
-
-Forbundethedsloven ses i interaktionen mellem padlen og bolden. Når bolden rammer padlen, skabes der en tydelig forbindelse, som viser, at padlen styrer boldens bevægelse.
-
-5. **Loven om figur og baggrund (Figure-Ground)**
-
-Figur-baggrundsloven anvendes ved, at den sorte baggrund gør de hvide elementer som padler, bold og score tydelige. Dette gør det nemt for spillerne at fokusere på de vigtigste elementer i spillet.
+* **Loven om figur og baggrund**: Figur-baggrundsloven anvendes ved, at den sorte baggrund gør de hvide elementer som padler, bold og score tydelige. Dette gør det nemt for spillerne at fokusere på de vigtigste elementer i spillet.
