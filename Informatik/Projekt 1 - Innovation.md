@@ -41,3 +41,15 @@ Inputtet fra spilleren oversættes direkte til en vertikal bevægelse af battet.
 * **Loven om forbundethed**: Forbundethedsloven ses i interaktionen mellem padlen og bolden. Når bolden rammer padlen, skabes der en tydelig forbindelse, som viser, at padlen styrer boldens bevægelse.
 
 * **Loven om figur og baggrund**: Figur-baggrundsloven anvendes ved, at den sorte baggrund gør de hvide elementer som padler, bold og score tydelige. Dette gør det nemt for spillerne at fokusere på de vigtigste elementer i spillet.
+
+#### 2. UX-Trekanten
+
+* **Nyttig:** Pong løser et behov for simpel underholdning og konkurrencemæssig leg. Det tilbyder en hurtig og let tilgængelig måde at spille et spil, der simulerer bordtennis, og det adresserer et ønske om at udfordre venner eller sig selv på en enkel platform.
+
+* **Brugervenlig:** Pong er ekstremt intuitivt og nemt at lære. Spillet har få kontroller, hvilket gør det hurtigt at forstå og spille. Den enkle grafik og klare regler gør det let at huske, selv efter lang tid uden spil.
+
+* **Engagerende:** Selvom Pong er enkelt og hurtigt at komme i gang med, kan det hurtigt blive ensformigt, da der ikke er nogen udvikling i spillet. Det kan være underholdende i korte perioder, men manglen på progression eller nye udfordringer kan gøre det mindre engagerende over tid.
+
+#### 3. Hvad der kommer let går let
+
+Pong er et spil, der er ekstremt let at få adgang til og starte med. Det kræver ingen komplicerede installationer eller læringskurver – du kan komme i gang med det samme. Men på grund af sin enkelhed kan interessen for spillet hurtigt dale. Hvad der kommer let, går let; spillere kan hurtigt miste interessen, da spillet ikke tilbyder nogen form for udvikling eller nye udfordringer efter de første par runder.
