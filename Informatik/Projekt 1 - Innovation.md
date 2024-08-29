@@ -52,4 +52,14 @@ Inputtet fra spilleren oversættes direkte til en vertikal bevægelse af battet.
 
 #### 3. Hvad der kommer let går let
 
-Pong er et spil, der er ekstremt let at få adgang til og starte med. Det kræver ingen komplicerede installationer eller læringskurver – du kan komme i gang med det samme. Men på grund af sin enkelhed kan interessen for spillet hurtigt dale. Hvad der kommer let, går let; spillere kan hurtigt miste interessen, da spillet ikke tilbyder nogen form for udvikling eller nye udfordringer efter de første par runder.
+Pong er et spil, der er ekstremt let at få adgang til og starte med. Det kræver ingen komplicerede installationer eller læringskurver – du kan komme i gang med det samme. Men på grund af sin enkelhed kan interessen for spillet hurtigt dale. Hvad der kommer let, går let; spillere kan hurtigt miste interessen, da spillet ikke tilbyder nogen     form for udvikling eller nye udfordringer efter de første par runder.
+
+### 
+
+### Historisk Kontekst og Betydning
+
+Pong, lanceret i 1972 af Atari, er bredt anerkendt som en af de mest indflydelsesrige titler i videospilsindustrien. Selvom Pong ikke var det første videospil nogensinde, markerede det en milepæl som det første spil, der opnåede mainstream succes og dermed kickstartede hele videospilsindustrien. Pongs simple, men let-forståelige gameplay, der simulerer bordtennis, gjorde det hurtigt til en favorit blandt både casual og rutinerede gamere, og dette bidrog væsentligt til spillets enorme kommercielle succes.
+
+#### 1. Indflydelse på Spilindustrien
+
+Pong satte en standard for fremtidige videospil og blev et forbillede for kommende udviklere. Spillets succes kastede lys over arkadespil som en lukrativ forretningsmodel og inspirerede udviklingen af andre sports- og simulationsspil. Pong introducerede et simpelt, men effektivt gameplay-design, som blev et grundlæggende komponent i spiludvikling. Denne standard blev bygget videre på i løbet af 1970'erne og 80'erne, hvor arkadekulturens vækst blev drevet af titler som *Space Invaders* (1978) og *Pac-Man* (1980), der fulgte i Pong's fodspor med fokus på enkelt og engagerende gameplay. Pong var en forløber for arkadekulturen, samt dens vækst og udbredelse til hele Verden. Pongs simple men konkurrenceorienterede gameplay gjorde det hurtigt populært i sociale sammenhæng og formede arkade til sociale mødestedder.
