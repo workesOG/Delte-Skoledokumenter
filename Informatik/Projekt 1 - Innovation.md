@@ -53,11 +53,11 @@ Inputtet fra spilleren oversættes direkte til en vertikal bevægelse af battet.
 
 #### 3. Hvad der kommer let går let
 
-Pong er et spil, der er ekstremt let at få adgang til og starte med. Det kræver ingen komplicerede installationer eller læringskurver – du kan komme i gang med det samme. Men på grund af sin enkelhed kan interessen for spillet hurtigt dale. Hvad der kommer let, går let; spillere kan hurtigt miste interessen, da spillet ikke tilbyder nogen     form for udvikling eller nye udfordringer efter de første par runder.
+Pong er et spil, der er ekstremt let at få adgang til og starte med. Det kræver ingen komplicerede installationer eller læringskurver – du kan komme i gang med det samme. Men på grund af sin enkelhed kan interessen for spillet hurtigt dale. Hvad der kommer let, går let; spillere kan hurtigt miste interessen, da spillet ikke tilbyder nogen     form for udvikling eller nye udfordringer efter de første par runder. 
 
-### 
+### Pongs historie
 
-### Historisk Kontekst og Betydning
+#### 2. Kontekst og Betydning
 
 Pong, lanceret i 1972 af Atari, er bredt anerkendt som en af de mest indflydelsesrige titler i videospilsindustrien. Selvom Pong ikke var det første videospil nogensinde, markerede det en milepæl som det første spil, der opnåede mainstream succes og dermed kickstartede hele videospilsindustrien. Pongs simple, men let-forståelige gameplay, der simulerer bordtennis, gjorde det hurtigt til en favorit blandt både casual og rutinerede gamere, og dette bidrog væsentligt til spillets enorme kommercielle succes.
 
